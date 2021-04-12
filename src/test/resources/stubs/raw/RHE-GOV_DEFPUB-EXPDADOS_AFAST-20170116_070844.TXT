@@ -1,0 +1,122 @@
+I       39492860  2269368       201/12/201601/12/2016Diária sem pernoite no Estado                                         
+I       39492243  3644138       226/07/201626/07/2016Diária sem pernoite no Estado                                         
+I       39492859  2269368       228/11/201628/11/2016Diária sem pernoite no Estado                                         
+I       39492718  3644138       218/11/201618/11/2016Diária sem pernoite no Estado                                         
+I       39494863  3644138       223/09/201623/09/2016Diária sem pernoite no Estado                                         
+I       39492795  2942810       122/09/201622/09/2016Diária sem pernoite no Estado                                         
+I       39492909  4209117       112/12/201614/12/2016Diária sem pernoite no Estado                                         
+I       39492706  3644138       225/10/201625/10/2016Diária sem pernoite no Estado                                         
+I       39492744  2942810       115/07/201615/07/2016Diária sem pernoite no Estado                                         
+I       39491572  3386090       213/02/201724/02/2017Férias                                                                
+I       39493688  4243730       110/10/201616/10/2016Licença para Tratamento de Saúde                                      
+I       39491502  2522977       113/02/201714/03/2017Férias                                                                
+I       39489244  3921212       126/01/201724/02/2017Férias                                                                
+I       39492762  2942810       102/09/201602/09/2016Diária sem pernoite no Estado                                         
+I       39493645  3878821       106/10/201614/10/2016Licença para Tratamento de Saúde                                      
+I       39491459  3682277       113/02/201724/02/2017Férias                                                                
+I       39493493  2618605       118/04/201618/04/2016Diária sem pernoite no Esktado                                         
+I       39492733  1795856       121/11/201621/11/2016Diária sem pernoite no Estado                                         
+I       39489452  4264991       113/02/201724/02/2017Férias                                                                
+I       39492777  3880753       216/12/201613/06/2017Licença à Gestante                                                    
+I       39492991  3895947       226/09/201605/10/2016Licença para Tratamento de Saúde                                      
+I       39492884  4222784       128/11/201622/12/2016Licença para Tratamento de Saúde                                      
+I       39492898  2645009       124/11/201624/11/2016Licença para Tratamento de Saúde                                      
+I       39494854  3644138       206/09/201606/09/2016Diária sem pernoite no Estado                                         
+I       39492745  2942810       122/07/201622/07/2016Diária sem pernoite no Estado                                         
+I       39492834  4293444       108/01/201712/01/2017Licença para Tratamento de Saúde                                      
+I       39494866  3644138       226/09/201626/09/2016Diária sem pernoite no Estado                                         
+I       39492845  4259530       122/08/201605/09/2016Licença por Motivo de Doença em Pessoa da Família                     
+I       39493805  3896129       103/11/201614/11/2016Licença para Tratamento de Saúde                                      
+I       39493502  2618605       108/04/201608/04/2016Diária sem pernoite no Estado                                         
+I       39492754  2942810       119/08/201619/08/2016Diária sem pernoite no Estado                                         
+I       39492801  3921670       115/11/201622/11/2016Licença para Tratamento de Saúde                                      
+I       39492797  2942810       114/10/201614/10/2016Diária sem pernoite no Estado                                         
+I       39492803  2942810       118/11/201618/11/2016Diária sem pernoite no Estado                                         
+I       39493587  4222830       106/09/201611/09/2016Licença para Tratamento de Saúde                                      
+I       39492714  3644138       207/11/201607/11/2016Diária sem pernoite no Estado                                         
+I       39492856  4259530       106/09/201607/09/2016Licença por Motivo de Doença em Pessoa da Família                     
+I       39492705  3644138       218/10/201618/10/2016Diária sem pernoite no Estado                                         
+I       39492748  2942810       129/07/201629/07/2016Diária sem pernoite no Estado                                         
+I       39491249  2791927       109/11/201609/11/2016Diária sem pernoite no Estado                                         
+I       39493484  4257529       105/08/201619/08/2016Licença para Tratamento de Saúde                                      
+I       39491637  3065219       101/03/201710/03/2017Férias                                                                
+I       39492976  2912813       109/01/201723/01/2017Licença para Tratamento de Saúde                                      
+I       39492602  3644138       230/08/201630/08/2016Diária sem pernoite no Estado                                         
+I       39492806  2942810       109/11/201609/11/2016Diária sem pernoite no Estado                                         
+I       39491257  2791927       122/11/201622/11/2016Diária sem pernoite no Estado                                         
+I       39491899  2605376       106/02/201707/03/2017Licença Prêmio por Assiduidade                              07/03/2017
+I       39493499  2618605       105/04/201605/04/2016Diária sem pernoite no Estado                                         
+I       39492800  2942810       128/10/201628/10/2016Diária sem pernoite no Estado                                         
+I       39492788  3965635       121/11/201619/05/2017Licença à Gestante                                                    
+I       39492814  2912783       107/11/201607/11/2016Diária sem pernoite no Estado                                         
+I       39493523  2618605       109/05/201609/05/2016Diária sem pernoite no Estado                                         
+I       39493472  2618605       101/04/201601/04/2016Diária sem pernoite no Estado                                         
+I       39493565  4199669       128/10/201604/11/2016Licença para Tratamento de Saúde                                      
+I       39493738  4245148       129/07/201629/07/2016Licença para Tratamento de Saúde                                      
+I       39491245  2791927       108/11/201608/11/2016Diária sem pernoite no Estado                                         
+I       39493511  2618605       120/04/201620/04/2016Diária sem pernoite no Estado                                         
+I       39489463  3965392       103/02/201717/02/2017Férias                                                                
+I       39492818  4288262       115/10/201624/10/2016Licença para Tratamento de Saúde                                      
+I       39491260  2791927       123/11/201623/11/2016Diária sem pernoite no Estado                                         
+I       39492732  1795856       101/11/201601/11/2016Diária sem pernoite no Estado                                         
+I       39492854  3757510       102/12/201602/12/2016Diária sem pernoite no Estado                                         
+I       39492688  3644138       216/09/201616/09/2016Diária sem pernoite no Estado                                         
+I       39492935  3091430       215/09/201616/09/2016Licença por Motivo de Doença em Pessoa da Família                     
+I       39493441  2791870       105/02/201605/02/2016Diária sem pernoite no Estado                                         
+I       39492698  3644138       207/10/201607/10/2016Diária sem pernoite no Estado                                         
+I       39492917  3091430       225/08/201626/08/2016Licença por Motivo de Doença em Pessoa da Família                     
+I       39492704  3644138       211/10/201611/10/2016Diária sem pernoite no Estado                                         
+I       39492303  3644138       216/08/201616/08/2016Diária sem pernoite no Estado                                         
+I       39491272  2791927       129/11/201629/11/2016Diária sem pernoite no Estado                                         
+I       39491237  2791927       101/11/201601/11/2016Diária sem pernoite no Estado                                         
+I       39492849  3757510       103/11/201603/11/2016Diária sem pernoite no Estado                                         
+I       39492961  1407023       127/10/201605/11/2016Licença para Tratamento de Saúde                                      
+I       39492951  3091430       224/10/201601/11/2016Licença por Motivo de Doença em Pessoa da Família                     
+I       39491764  3090760       106/02/201717/02/2017Férias                                                                
+I       39491595  2619156       108/02/201717/02/2017Férias                                                                
+I       39491820  3926141       113/02/201724/02/2017Férias                                                                
+I       39492271  3644138       212/08/201612/08/2016Diária sem pernoite no Estado                                         
+I       39492906  4209117       105/12/201607/12/2016Diária sem pernoite no Estado                                         
+I       39493497  2618605       125/04/201625/04/2016Diária sem pernoite no Estado                                         
+I       39489266  3896250       117/01/201727/01/2017Férias                                                                
+I       39492833  2912783       114/11/201614/11/2016Diária sem pernoite no Estado                                         
+I       39492715  3644138       208/11/201608/11/2016Diária sem pernoite no Estado                                         
+I       39494873  3644138       227/09/201627/09/2016Diária sem pernoite no Estado                                         
+I       39492599  3644138       223/08/201623/08/2016Diária sem pernoite no Estado                                         
+I       39491793  3663710       101/03/201730/03/2017Férias                                                                
+I       39493727  2597047       117/08/201606/09/2016Licença por Motivo de Doença em Pessoa da Família                     
+I       39492764  2942810       109/09/201609/09/2016Diária sem pernoite no Estado                                         
+I       39492925  3091430       202/09/201602/09/2016Licença por Motivo de Doença em Pessoa da Família                     
+I       39494859  3644138       213/09/201613/09/2016Diária sem pernoite no Estado                                         
+I       39492711  3644138       201/11/201601/11/2016Diária sem pernoite no Estado                                         
+I       39493543  4209141       102/09/201616/09/2016Licença para Tratamento de Saúde                                      
+I       39492799  2942810       121/10/201621/10/2016Diária sem pernoite no Estado                                         
+I       39492672  3091430       205/01/201712/01/2017Licença Nojo                                                          
+I       39493516  2618605       129/04/201629/04/2016Diária sem pernoite no Estado                                         
+I       39491514  3644138       219/07/201619/07/2016Diária sem pernoite no Estado                                         
+I       39493508  4257529       121/07/201604/08/2016Licença para Tratamento de Saúde                                      
+I       39493755  4228464       108/08/201615/08/2016Licença para Tratamento de Saúde                                      
+I       39493733  4245148       127/07/201627/07/2016Licença para Tratamento de Saúde                                      
+I       39492899  4209117       118/11/201618/11/2016Diária sem pernoite no Estado                                         
+I       39492901  4209117       121/11/201623/11/2016Diária sem pernoite no Estado                                         
+I       39492903  4209117       128/11/201629/11/2016Diária sem pernoite no Estado                                         
+I       39492852  3757510       108/11/201608/11/2016Diária sem pernoite no Estado                                         
+I       39493476  2618605       122/04/201622/04/2016Diária sem pernoite no Estado                                         
+I       39492772  3880753       213/12/201615/12/2016Licença para Tratamento de Saúde                                      
+I       39492752  2942810       112/08/201612/08/2016Diária sem pernoite no Estado                                         
+I       39492452  4295935       112/01/201719/01/2017Licença Gala                                                          
+I       39493475  2618605       119/04/201619/04/2016Diária sem pernoite no Estado                                         
+I       39492926  3091430       206/09/201606/09/2016Licença por Motivo de Doença em Pessoa da Família                     
+I       39492737  1795856       128/11/201628/11/2016Diária sem pernoite no Estado                                         
+I       39493474  3896250       107/09/201616/09/2016Licença para Tratamento de Saúde                                      
+I       39492749  2942810       105/08/201605/08/2016Diária sem pernoite no Estado                                         
+I       39493509  2618605       126/04/201626/04/2016Diária sem pernoite no Estado                                         
+I       39492819  2912783       111/11/201611/11/2016Diária sem pernoite no Estado                                         
+I       39493518  4257529       123/08/201618/02/2017Licença à Gestante                                                    
+I       39492929  3091430       209/09/201609/09/2016Licença por Motivo de Doença em Pessoa da Família                     
+I       39493489  2618605       104/04/201604/04/2016Diária sem pernoite no Estado                                         
+I       39493504  2618605       115/04/201615/04/2016Diária sem pernoite no Estado                                         
+I       39492802  2942810       104/11/201604/11/2016Diária sem pernoite no Estado                                         
+I       39492245  3644138       202/08/201602/08/2016Diária sem pernoite no Estado                                         
+I       39493575  3880737       112/12/201616/12/2016Licença para Tratamento de Saúde                                      
+E       38788619  3878821       113/10/201614/10/2016Afastamento por Moléstia                                              

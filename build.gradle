@@ -1,0 +1,60 @@
+
+buildscript {
+	ext {
+		springBootVersion = '1.4.3.RELEASE'
+	}
+	repositories {
+		mavenCentral()
+		maven { url "http://repo.spring.io/libs-snapshot" }
+		maven { url 'http://repo.spring.io/milestone' }
+	}
+	dependencies {
+		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+		classpath ('mysql:mysql-connector-java:5.1.39')
+	}
+}
+
+apply plugin: 'org.springframework.boot'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'groovy'
+
+jar {
+	baseName = 'rhe-import'
+	version = '0.0.98-SNAPSHOT'
+
+
+sourceCompatibility = 1.8
+
+repositories {
+	mavenCentral()
+	maven { url "https://repository.jboss.org/nexus/content/repositories/releases" }
+	maven { url 'http://jenkins.defpub.local:8081/artifactory/repo' }
+}
+
+
+dependencies {
+	compile('joda-time:joda-time:2.8')
+    compile('javax.xml.bind:jaxb-api:2.1')
+	compile('org.jadira.usertype:usertype.jodatime:2.0.1')
+	compile("org.springframework.boot:spring-boot-starter:${springBootVersion}")
+	compile("org.springframework.boot:spring-boot-starter-actuator:${springBootVersion}")
+	compile("org.springframework.boot:spring-boot-starter-web:${springBootVersion}") {
+		exclude module: "spring-boot-starter-tomcat"
+	}
+	compile("org.springframework.boot:spring-boot-starter-jetty:${springBootVersion}")
+	compile("org.springframework.boot:spring-boot-starter-mail:${springBootVersion}")
+	testCompile("org.springframework.boot:spring-boot-starter-test:${springBootVersion}")
+
+	compile ('mysql:mysql-connector-java:8.0.19')
+    compile('com.microsoft.sqlserver:sqljdbc4:4.0')
+	compile("org.springframework.boot:spring-boot-starter-data-jpa")
+	compile("com.h2database:h2")
+	compile("org.springframework:spring-jdbc:4.1.6.RELEASE")
+
+	compile("com.xlson.groovycsv:groovycsv:0.2")
+	compile('org.codehaus.groovy:groovy')
+	testCompile('junit:junit:4.12')
+	compile("org.flywaydb:flyway-core:4.0.3")
+	compile("javax.inject:javax.inject:1")
+}}
